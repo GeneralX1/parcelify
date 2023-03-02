@@ -20,7 +20,7 @@
     "stream-combiner": "^0.2.2",
     "through2": "~0.6.3",
     "toposort": "~0.2.10",
-    "underscore": "~1.6.0"
+    "underscore": "~1.13.6"
   },
   "devDependencies": {
     "browserify": "^9.0.8",
