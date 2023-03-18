@@ -11,7 +11,7 @@
     "glob": "~3.2.9",
     "globwatcher": "~1.4.1",
     "inherits": "~2.0.1",
-    "minimist": "0.2.3",
+    "minimist": "0.2.4",
     "mkdirp": "~0.3.5",
     "npmlog": "0.1.1",
     "parcel-map": "^3.0.0",
